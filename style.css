@@ -1,0 +1,42 @@
+body{
+font-family:Arial;
+background:#f2f2f2;
+}
+
+.container{
+width:500px;
+margin:50px auto;
+background:white;
+padding:25px;
+border-radius:15px;
+text-align:center;
+box-shadow:0 5px 15px rgba(0,0,0,0.2);
+}
+
+button{
+padding:10px 20px;
+border:none;
+border-radius:8px;
+background:#2196f3;
+color:white;
+cursor:pointer;
+}
+
+button:hover{
+background:#0b7dda;
+}
+
+.option{
+display:block;
+width:100%;
+margin:10px 0;
+padding:12px;
+background:#2196f3;
+border:none;
+border-radius:8px;
+cursor:pointer;
+}
+
+.option:hover{
+background:#ddd;
+}
